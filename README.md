@@ -8,6 +8,8 @@ please bear with me
 
 this is being done in 2025 so all solutions read and write to console now
 
+I'm gonna start adding random problems/sets I've solved sooner or later I'll work on the todos I'm just way too lazy to refactor all the code right now
+
 ✅ for completed
 ❌ for uncompleted
 
