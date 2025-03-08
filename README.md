@@ -12,7 +12,7 @@ this is being done in 2025 so all solutions read and write to console now
 Starter Problems: ✅\
 Starter Set I: AIO problems: ✅\
 Starter Set I: AIO problems (Challenge!): ✅\
-Starter Set II: AIO problems: ❌\
+Starter Set II: AIO problems: ✅\
 Starter Set II: AIO problems (Challenge!): ❌\
 Starter Set IV: AIO problems: ❌\
 Starter Set IV: AIO problems (Challenge!): ❌\
