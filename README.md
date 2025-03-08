@@ -7,8 +7,8 @@ please bear with me
 this is being done in 2025 so all solutions read and write to console now
 
 # TODO
-<details open>
-<summary>Upload solutions to all starter sets</summary>
+<details close>
+<summary>Upload solutions to all starter sets ✅</summary>
 <br>
 Progress so far:
 Starter Problems: ✅ <br>
@@ -18,4 +18,4 @@ Starter Set II: AIO problems: ✅ <br>
 Starter Set II: AIO problems (Challenge!): ✅ <br>
 Starter Set IV: AIO problems: ✅ <br>
 Starter Set IV: AIO problems (Challenge!): ✅ <br>
-Introductory AIO problems I: ❌ <br>
+Introductory AIO problems I: ✅ <br>
