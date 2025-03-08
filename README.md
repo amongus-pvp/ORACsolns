@@ -15,7 +15,7 @@ I'm gonna start adding random problems/sets I've solved sooner or later I'll wor
 
 # TODO
 
-Add links to problems in every file ❌ <br>
+Add links to problems in every file ❌ (need to do for starter sets) <br>
 
 <details close>
 <summary>Upload solutions to all starter sets ✅</summary>
