@@ -7,7 +7,7 @@ please bear with me
 this is being done in 2025 so all solutions read and write to console now
 
 # TODO
-<details close>
+<details open>
 <summary>Upload solutions to all starter sets</summary>
 <br>
 Progress so far:
