@@ -31,61 +31,61 @@ Introductory AIO problems I: ✅ <br>
 <details>
   <summary>AIO 2019: ❌</summary>
   <br>
-  Vases: ✅ <br>
-  RPS: ❌ <br>
-  Hiring Monks: ❌ <br>
-  Medusa's Snakes: ❌ <br>
-  Evading Capture: ❌ <br>
-  Lollipops Sweets and Chocolates II: ❌ <br>
+  Vases: ✅ <br> <br>
+  RPS: ❌ <br> <br>
+  Hiring Monks: ❌ <br> <br>
+  Medusa's Snakes: ❌ <br> <br>
+  Evading Capture: ❌ <br> <br>
+  Lollipops Sweets and Chocolates II: ❌ <br> <br>
 </details>
 <details>
   <summary>AIO 2020: ❌</summary>
-  <br>
-  Baubles: ✅ <br>
-  Cookies: ✅ <br>
-  Ghost Encounters: ✅ <br>
-  Tennis Robot: ✅ <br>
-  Ladybugs II: ❌ <br>
-  Beach Umbrellas: ❌ <br>
+  <br> 
+  Baubles: ✅ <br> <br>
+  Cookies: ✅ <br> <br>
+  Ghost Encounters: ✅ <br> <br>
+  Tennis Robot: ✅ <br> <br>
+  Ladybugs II: ❌ <br> <br>
+  Beach Umbrellas: ❌ <br> <br>
 </details>
 <details>
   <summary>AIO 2021: ✅</summary>
   <br>
-  Robot Vacuum: ✅ <br>
-  Art Class II: ✅ <br>
-  Melody: ✅ <br>
-  Social Distancing: ✅ <br>
-  Space Mission: ✅ <br>
-  Laser Cutter: ✅ <br>
+  Robot Vacuum: ✅ <br> <br>
+  Art Class II: ✅ <br> <br>
+  Melody: ✅ <br> <br>
+  Social Distancing: ✅ <br> <br>
+  Space Mission: ✅ <br> <br>
+  Laser Cutter: ✅ <br> <br>
 </details>
 <details>
   <summary>AIO 2022: ✅</summary>
   <br>
-  Election II: ✅ <br>
-  Level Ground: ✅ <br>
-  TSP: ✅ <br>
-  Beautiful Buildings: ✅ <br>
-  Composing Pyramids: ✅ <br>
-  Spaceship Shuffle: ✅ <br>
+  Election II: ✅ <br> <br>
+  Level Ground: ✅ <br> <br>
+  TSP: ✅ <br> <br>
+  Beautiful Buildings: ✅ <br> <br>
+  Composing Pyramids: ✅ <br> <br>
+  Spaceship Shuffle: ✅ <br> <br>
 </details>
 <details>
   <summary>AIO 2023: ❌</summary>
   <br>
-  TeleTrip: ✅ <br>
-  Distinctos Raffle: ✅ <br>
-  Making Bank: ✅ <br>
-  Shoptimality: ❌ <br>
-  Wheeling and Dealing: ❌ <br>
-  Yet Another Lights Problem: ✅ <br>
+  TeleTrip: ✅ <br> <br>
+  Distinctos Raffle: ✅ <br> <br>
+  Making Bank: ✅ <br> <br>
+  Shoptimality: ❌ <br> <br>
+  Wheeling and Dealing: ❌ <br> <br>
+  Yet Another Lights Problem: ✅ <br> <br>
 </details>
 <details>
   <summary>AIO 2024: ❌</summary>
   <br>
-  Javelin: ✅ <br>
-  Subbookkeeper: ✅ <br>
-  Shopping Spree: ✅ <br>
-  Backpacking: ❌ <br>
-  Tennis Robot II: ❌ <br>
-  Atlantis III: Twin Rivers: ❌ <br>
+  Javelin: ✅ <br> <br>
+  Subbookkeeper: ✅ <br> <br>
+  Shopping Spree: ✅ <br> <br>
+  Backpacking: ❌ <br> <br>
+  Tennis Robot II: ❌ <br> <br>
+  Atlantis III: Twin Rivers: ❌ <br> <br>
 </details>
 </details>
