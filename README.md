@@ -11,12 +11,11 @@ this is being done in 2025 so all solutions read and write to console now
 <summary>Upload solutions to all starter sets</summary>
 <br>
 Progress so far:
-Starter Problems: ✅\
-Starter Set I: AIO problems: ✅\
-Starter Set I: AIO problems (Challenge!): ✅\
-Starter Set II: AIO problems: ✅\
-Starter Set II: AIO problems (Challenge!): ✅\
-Starter Set IV: AIO problems: ✅\
-Starter Set IV: AIO problems (Challenge!): ❌\
-Introductory AIO problems I: ❌
-<\details>
+Starter Problems: ✅ <br>
+Starter Set I: AIO problems: ✅ <br>
+Starter Set I: AIO problems (Challenge!): ✅ <br>
+Starter Set II: AIO problems: ✅ <br>
+Starter Set II: AIO problems (Challenge!): ✅ <br>
+Starter Set IV: AIO problems: ✅ <br>
+Starter Set IV: AIO problems (Challenge!): ❌ <br>
+Introductory AIO problems I: ❌ <br>
