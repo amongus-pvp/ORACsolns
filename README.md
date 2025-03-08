@@ -14,6 +14,6 @@ Starter Set I: AIO problems: ✅\
 Starter Set I: AIO problems (Challenge!): ✅\
 Starter Set II: AIO problems: ✅\
 Starter Set II: AIO problems (Challenge!): ✅\
-Starter Set IV: AIO problems: ❌\
+Starter Set IV: AIO problems: ✅\
 Starter Set IV: AIO problems (Challenge!): ❌\
 Introductory AIO problems I: ❌
