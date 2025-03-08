@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1100/
 N = int(input())
 A = input()
 B = input()

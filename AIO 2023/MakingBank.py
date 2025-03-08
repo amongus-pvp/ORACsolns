@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1297/
 n = int(input().strip())
 d = list(str(input().strip()))
 skill = 1

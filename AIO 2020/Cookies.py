@@ -1,3 +1,5 @@
+# https://orac2.info/problem/13/
+
 d, c0 = map(int, input().strip().split())
 p1, c1 = map(int, input().strip().split())
 p2, c2 = map(int, input().strip().split())

@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1194/
 n = int(input().strip())
 buildings = list(map(int, input().strip().split()))
 ugly = 0

@@ -1,3 +1,4 @@
+# https://orac2.info/problem/216/
 line = input().strip()
 B, N = map(int, line.split())
 bins = list(map(int, input().strip().split()))

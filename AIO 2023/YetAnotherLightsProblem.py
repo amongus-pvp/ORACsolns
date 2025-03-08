@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1300/
 def gcd(a, b):
     if b > a:
         return gcd(b, a)

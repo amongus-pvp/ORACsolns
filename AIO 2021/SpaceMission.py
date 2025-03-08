@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1101/
 N, F = [int(s) for s in input().split()]
 C = []
 for i in range(N):

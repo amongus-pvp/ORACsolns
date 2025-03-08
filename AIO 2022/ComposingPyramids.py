@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1197/
 n = int(input().strip())
 p = list(map(int, input().split()))
 

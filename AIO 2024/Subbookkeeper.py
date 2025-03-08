@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1464/
 def cScore(word):
     score = 0
     for i in range(len(word)-1):

@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1302/
 n, k = map(int, input().strip().split())
 tickets = list(map(int, input().strip().split()))
 freq = {}

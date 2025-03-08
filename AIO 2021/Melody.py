@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1097/
 N, K = map(int, input().split())
  
 for i in range(0, N):

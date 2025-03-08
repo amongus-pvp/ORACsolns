@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1098/
 x = input() # js skipping the first line since we dont need it
 x = input()
  

@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1195/
 n = int(input().strip())
 alts = list(map(int, input().strip().split()))
  

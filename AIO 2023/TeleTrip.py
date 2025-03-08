@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1299/
 n = int(input().strip())
 cmds = list(input().strip())
 maxleft = 0

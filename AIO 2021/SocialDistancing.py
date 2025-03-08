@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1102/
 N, K = map(int, input().split())
 d = []
 

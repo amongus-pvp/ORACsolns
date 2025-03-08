@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1465/
 N, K = map(int, input().split())
 costs = list(map(int, input().split()))
  

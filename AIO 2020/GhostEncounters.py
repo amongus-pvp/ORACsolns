@@ -1,3 +1,4 @@
+# https://orac2.info/problem/211/
 N, K = [int(s) for s in input().split()]
 ans = {}
 for i in range(N):

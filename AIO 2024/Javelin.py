@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1463/
 N = int(input())
 throws = list(map(int, input().split()))
  

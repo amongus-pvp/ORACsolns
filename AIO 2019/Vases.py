@@ -1,3 +1,5 @@
+# https://orac2.info/problem/3/
+
 N = int(input())
  
 if N <= 5:

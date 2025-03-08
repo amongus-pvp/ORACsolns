@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1193/
 Nvotes = int(input())
 Rvotes = list(input())
 

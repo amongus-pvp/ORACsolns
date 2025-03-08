@@ -1,3 +1,4 @@
+# https://orac2.info/problem/209/
 red, blue, spare, redp, bluep = map(int, input().strip().split())
 a = 0
 if red > redp and blue > bluep:

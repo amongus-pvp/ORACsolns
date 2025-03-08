@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1198/
 N = int(input())
  
 A = list(map(int, input().split()))
