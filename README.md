@@ -33,11 +33,11 @@ Progress so far: <br>
 <details>
   <summary>AIO 2019: ❌</summary>
   <br>
-  Vases: ✅
-  RPS: ❌
-  Hiring Monks: ❌
-  Medusa's Snakes: ❌
-  Evading Capture: ❌
-  Lollipops Sweets and Chocolates II: ❌
+  Vases: ✅ <br>
+  RPS: ❌ <br>
+  Hiring Monks: ❌ <br>
+  Medusa's Snakes: ❌ <br>
+  Evading Capture: ❌ <br>
+  Lollipops Sweets and Chocolates II: ❌ <br>
 </details>
 </details>
