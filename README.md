@@ -12,6 +12,9 @@ this is being done in 2025 so all solutions read and write to console now
 ❌ for uncompleted
 
 # TODO
+
+Add links to problems in every file ❌ <br>
+
 <details close>
 <summary>Upload solutions to all starter sets ✅</summary>
 <br>
@@ -25,7 +28,7 @@ Starter Set IV: AIO problems (Challenge!): ✅ <br>
 Introductory AIO problems I: ✅ <br>
 </details>
 
-<details open>
+<details close>
 <summary>Upload solutions to all modern AIO contests (2019 - 2024) ❌</summary>
 <br>
 <details>
