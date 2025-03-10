@@ -89,8 +89,8 @@ Introductory AIO problems I: ✅ <br>
   Javelin: ✅ <br> <br>
   Subbookkeeper: ✅ <br> <br>
   Shopping Spree: ✅ <br> <br>
-  Backpacking: ❌ <br> <br>
-  Tennis Robot II: ❌ <br> <br>
+  Backpacking: ✅ <br> <br>
+  Tennis Robot II: ✅ <br> <br>
   Atlantis III: Twin Rivers: ❌ <br> <br>
 </details>
 </details>
