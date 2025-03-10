@@ -74,13 +74,13 @@ Introductory AIO problems I: ✅ <br>
   Spaceship Shuffle: ✅ <br> <br>
 </details>
 <details>
-  <summary>AIO 2023: ❌</summary>
+  <summary>AIO 2023: ✅</summary>
   <br>
   TeleTrip: ✅ <br> <br>
   Distinctos Raffle: ✅ <br> <br>
   Making Bank: ✅ <br> <br>
   Shoptimality: ✅ <br> <br>
-  Wheeling and Dealing: ❌ <br> <br>
+  Wheeling and Dealing: ✅ <br> <br>
   Yet Another Lights Problem: ✅ <br> <br>
 </details>
 <details>
