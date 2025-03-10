@@ -37,7 +37,7 @@ Introductory AIO problems I: ✅ <br>
   <summary>AIO 2019: ❌</summary>
   <br>
   Vases: ✅ <br> <br>
-  RPS: ❌ <br> <br>
+  RPS: ✅ <br> <br>
   Hiring Monks: ❌ <br> <br>
   Medusa's Snakes: ❌ <br> <br>
   Evading Capture: ❌ <br> <br>
