@@ -50,7 +50,7 @@ Introductory AIO problems I: ✅ <br>
   Cookies: ✅ <br> <br>
   Ghost Encounters: ✅ <br> <br>
   Tennis Robot: ✅ <br> <br>
-  Ladybugs II: ❌ <br> <br>
+  Ladybugs II: ✅ <br> <br>
   Beach Umbrellas: ❌ <br> <br>
 </details>
 <details>
