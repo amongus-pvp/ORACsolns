@@ -3,20 +3,25 @@ ORAC solns in python
 This is the site with all the problems:
 https://orac2.info/hub/
 
-Im gonna organise this into the sets and then start uploading my solutions
-please bear with me
+Im going to organise this into the sets and then start uploading my solutions
 
-this is being done in 2025 so all solutions read and write to console now
+This is being done in 2025 so all solutions read and write to console now (except for specific problems from selection exam sets but those will be dealt with later)
 
-I'm gonna start adding random problems/sets I've solved sooner or later I'll work on the todos I'm just way too lazy to refactor all the code right now
+I'm uploading a lot of these as I solve them, and I am quite hesitant to upload problems unless the set they originate from has already been solved
 
 ✅ for completed
 ❌ for uncompleted
 
+# Editorials
+I will be writing my own editorials for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
+
+
+
 # TODO
 
 Add links to problems in every file ❌ (need to do for starter sets) <br>
-
+Write editorials for one set at the minimum (2023 most likely) ❌<br>
+Organise the below section into tables for ease of reading ❌<br>
 <details close>
 <summary>Upload solutions to all starter sets ✅</summary>
 <br>
