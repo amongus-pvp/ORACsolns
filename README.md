@@ -43,9 +43,9 @@ Introductory AIO problems I: ✅ <br>
   <br>
   Vases: ✅ <br> <br>
   RPS: ✅ <br> <br>
-  Hiring Monks: ❌ <br> <br>
-  Medusa's Snakes: ❌ <br> <br>
-  Evading Capture: ❌ <br> <br>
+  Hiring Monks: ✅ <br> <br>
+  Medusa's Snakes: ✅ <br> <br>
+  Evading Capture: ✅ <br> <br>
   Lollipops Sweets and Chocolates II: ❌ <br> <br>
 </details>
 <details>
