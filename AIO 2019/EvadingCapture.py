@@ -1,3 +1,4 @@
+# https://orac2.info/problem/106/
 from collections import deque
 
 n, e, x, k = map(int, input().split())
