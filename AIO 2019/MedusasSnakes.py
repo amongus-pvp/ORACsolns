@@ -1,3 +1,4 @@
+# https://orac2.info/problem/50/
 def find_sequence_end(start, length, size, dna, target_char):
     """
     Searches for a sequence of `target_char` of length `length` starting from `start`.
