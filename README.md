@@ -12,8 +12,49 @@ I'm uploading a lot of these as I solve them, and I am quite hesitant to upload 
 ✅ for completed
 ❌ for uncompleted
 
-# Editorials
-I will be writing my own editorials for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
+# Formatting
+Almost every file will be a python file that scores 100/100 (or partial if specified) when submitted to the link given at the top of the code. <br>
+My code is formatted in the following style for problems (in python) that use standard input and output:
+
+```py
+# hyperlink to problem if user wants to read, this will be a comment
+import foo # make any neccesary imports, usually bisect, deque, sys
+N = int(input()) # for singular integer inputs
+A, B, C = map(int, input().split()) # for a constant number of spaced integers being given on a line of input
+vals = list(map(int, input().split())) # for a dynamic number of spaced integers being given on a single line of input
+x = []
+for i in range(N):
+    x.append(int(input())) # for dynamic number of integers that contribute to one array, inputted over N lines
+st = input() # for taking in strings
+stl = list(input()) # for a list of chars
+# that is all for input
+
+
+# here we calculate answer, this changes for every file
+answer = 0
+
+# ill change this variable according to my algorithm
+print(answer) # finally outputting the answer
+```
+
+For older problems we may need to read from files, this is dealt with as follows:
+```py
+# this stuff goes before we take any input
+import sys 
+sys.stdin = open("filein.txt", "r")
+sys.stdout = open("fileout.txt", "w")
+
+# use input() and print() as normal now, they simply get redirected to the files instead of the console
+```
+
+Finally, since python isn't very good with recursion and there is a recursion limit of 999, for any recursive solutions I may include:
+```py
+import sys
+sys.setrecursionlimit(10**7) # 10**9 maybe if the problem conditions are massive
+```
+
+# Solutions
+I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
