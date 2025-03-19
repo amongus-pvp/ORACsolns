@@ -27,12 +27,52 @@ THIS HAS NOT BEEN COMPLETED YET
 | 13 | Cookies | 100 |
 | 21 | Chocolate Shop | 100 |
 | 23 | Snap Dragons II | 100 |
+| 27 | Ruckus League | 100 |
+| 39 | Nomnomnom | 100 |
+| 50 | Medusa's Snakes | 100 |
+| 56 | Treasure Hunt | 100 |
+| 57 | Oil | 100 |
+| 62 | No (One) Left | 100 |
+| 70 | Safe Cracking | 100 |
+| 106 | Evading Capture | 100 |
+| 107 | Choreography | 100 |
+| 112 | RPS | 100 |
+| 122 | Snake Charmer | 100 |
+| 139 | Sculpture II | 100 |
+| 141 | Magic Squares | 100 |
+| 149 | Atlantis Rising | 100 |
+| 165 | Hiring Monks | 100 |
+| 204 | Missing Mango | 100 |
+| 209 | Baubles | 100 |
+| 210 | Ladybugs II | 100 |
+| 211 | Ghost Encounters | 100 |
+| 212 | Ninjas | 100 |
+| 216 | Tennis Robot | 100 |
+| 225 | Tag | 100 |
+| 240 | Farmer Drama | 100 |
+| 244 | Wet Chairs | 100 |
+| 261 | Settling Debts | 100 |
+| 274 | Snap Dragons III: Binary Snap | 100 |
+| 288 | Crowd Surfing | 100 |
+| 301 | Carmen Sanfrancisco | 100 |
+| 308 | Chimera II | 100 |
+| 309 | Ladybugs | 100 |
+| 319 | Russian Dolls | 100 |
+| 1097 | Melody | 100 |
+| 1098 | Robot Vacuum | 100 |
+| 1099 | Art Class II | 100 |
+| 1100 | Laser Cutter | 100 |
+| 1101 | Space Mission | 100 |
+| 1102 | Social Distancing | 100 |
 | 1193 | Election II | 100 |
 | 1194 | Beautiful Buildings | 100 |
 | 1195 | Level Ground | 100 |
 | 1196 | TSP | 100 |
 | 1197 | Composing Pyramids | 100 |
 | 1198 | Spaceship Shuffle | 100 |
+| 1215 | Sewers | 100 |
+| 1216 | Ecofriendly Trip (C++) | 100 | 
+| 1222 | Chocolate Bar | 100 |
 | 1297 | Making Bank | 100 |
 | 1298 | Wheeling And Dealing | 100 |
 | 1299 | TeleTrip | 100 |
