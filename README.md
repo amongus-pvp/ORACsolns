@@ -16,11 +16,35 @@ I'm uploading a lot of these as I solve them, and I am quite hesitant to upload 
 I will be writing my own editorials for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
 
 # Completed Problems
-Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/`X`/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
+Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
+
+THIS HAS NOT BEEN COMPLETED YET
 
 | Problem #  | Problem Name | Score /100 |
 | ------------- | ------------- | ------------- |
 | 3  | Vases  | 100 |
+| 10 | Travelling Salesperson | 100 |
+| 13 | Cookies | 100 |
+| 21 | Chocolate Shop | 100 |
+| 23 | Snap Dragons II | 100 |
+| 1193 | Election II | 100 |
+| 1194 | Beautiful Buildings | 100 |
+| 1195 | Level Ground | 100 |
+| 1196 | TSP | 100 |
+| 1197 | Composing Pyramids | 100 |
+| 1198 | Spaceship Shuffle | 100 |
+| 1297 | Making Bank | 100 |
+| 1298 | Wheeling And Dealing | 100 |
+| 1299 | TeleTrip | 100 |
+| 1300 | Yet Another Lights Problem | 100 |
+| 1301 | Shoptimality | 100 |
+| 1302 | Distincto's Raffle | 100 |
+| 1461 | Backpacking | 100 |
+| 1463 | Javelin | 100 |
+| 1464 | Subbookkeeper | 100 |
+| 1465 | Shopping Spree | 100 |
+| 1466 | Tennis Robot II | 100 |
+
 
 # TODO
 
