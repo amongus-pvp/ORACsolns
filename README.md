@@ -53,13 +53,22 @@ import sys
 sys.setrecursionlimit(10**7) # 10**9 maybe if the problem conditions are massive
 ```
 
+**Rarely** ever will you see me using:
+```py
+def main():
+    # code
+    print("Here is the awesome answer")
+if __name__ == "__main__":
+    main()
+```
+
 # Solutions
-I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
+I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills. These will be kept under the /Editorials directory
 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-THIS HAS NOT BEEN COMPLETED YET
+Currently have uploaded: `85` solutions
 
 | Problem #  | Problem Name | Score /100 |
 | ------------- | ------------- | ------------- |
