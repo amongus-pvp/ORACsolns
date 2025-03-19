@@ -37,11 +37,13 @@ THIS HAS NOT BEEN COMPLETED YET
 | 106 | Evading Capture | 100 |
 | 107 | Choreography | 100 |
 | 112 | RPS | 100 |
+| 121 | Fashion Statement | 100 |
 | 122 | Snake Charmer | 100 |
 | 139 | Sculpture II | 100 |
 | 141 | Magic Squares | 100 |
 | 149 | Atlantis Rising | 100 |
 | 165 | Hiring Monks | 100 |
+| 175 | Cute Numbers | 100 |
 | 204 | Missing Mango | 100 |
 | 209 | Baubles | 100 |
 | 210 | Ladybugs II | 100 |
@@ -51,13 +53,32 @@ THIS HAS NOT BEEN COMPLETED YET
 | 225 | Tag | 100 |
 | 240 | Farmer Drama | 100 |
 | 244 | Wet Chairs | 100 |
+| 247 | Snap Dragons | 100 |
 | 261 | Settling Debts | 100 |
+| 262 | Pirates | 100 |
+| 265 | Street Construction | 100 |
 | 274 | Snap Dragons III: Binary Snap | 100 |
 | 288 | Crowd Surfing | 100 |
 | 301 | Carmen Sanfrancisco | 100 |
+| 303 | NORT | 100 |
 | 308 | Chimera II | 100 |
 | 309 | Ladybugs | 100 |
 | 319 | Russian Dolls | 100 |
+| 321 | Castle Cavalry | 100 |
+| 324 | Counting to Infinity | 100 |
+| 325 | Encyclopedia | 100 |
+| 328 | A Dish Best Served Cold | 100 |
+| 329 | Mixed Fraction | 100 |
+| 330 | Sitting or Standing? | 100 |
+| 331 | The Tremendous Tak-Tak Tree | 100 |
+| 332 | Addition | 100 |
+| 333 | Friendlist | 100 |
+| 334 | Triple Hunting | 100 |
+| 336 | A Mindbending Scenario | 100 |
+| 338 | Dictionary | 100 |
+| 340 | Drought | 100 |
+| 800 | Genius | 100 |
+| 982 | Culture | 100 |
 | 1097 | Melody | 100 |
 | 1098 | Robot Vacuum | 100 |
 | 1099 | Art Class II | 100 |
@@ -79,6 +100,7 @@ THIS HAS NOT BEEN COMPLETED YET
 | 1300 | Yet Another Lights Problem | 100 |
 | 1301 | Shoptimality | 100 |
 | 1302 | Distincto's Raffle | 100 |
+| 1415 | Palindrome | 100 |
 | 1461 | Backpacking | 100 |
 | 1463 | Javelin | 100 |
 | 1464 | Subbookkeeper | 100 |
