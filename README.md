@@ -41,6 +41,7 @@ THIS HAS NOT BEEN COMPLETED YET
 | 122 | Snake Charmer | 100 |
 | 139 | Sculpture II | 100 |
 | 141 | Magic Squares | 100 |
+| 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 149 | Atlantis Rising | 100 |
 | 165 | Hiring Monks | 100 |
 | 175 | Cute Numbers | 100 |
@@ -130,14 +131,14 @@ Introductory AIO problems I: ✅ <br>
 <summary>Upload solutions to all modern AIO contests (2019 - 2024) ❌</summary>
 <br>
 <details>
-  <summary>AIO 2019: ❌</summary>
+  <summary>AIO 2019: ✅</summary>
   <br>
   Vases: ✅ <br> <br>
   RPS: ✅ <br> <br>
   Hiring Monks: ✅ <br> <br>
   Medusa's Snakes: ✅ <br> <br>
   Evading Capture: ✅ <br> <br>
-  Lollipops Sweets and Chocolates II: ❌ <br> <br>
+  Lollipops Sweets and Chocolates II: ✅ <br> <br>
 </details>
 <details>
   <summary>AIO 2020: ❌</summary>
