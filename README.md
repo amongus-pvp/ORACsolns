@@ -15,7 +15,12 @@ I'm uploading a lot of these as I solve them, and I am quite hesitant to upload 
 # Editorials
 I will be writing my own editorials for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills
 
+# Completed Problems
+Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/`X`/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
+| Problem #  | Problem Name | Score /100 |
+| ------------- | ------------- | ------------- |
+| 3  | Vases  | 100 |
 
 # TODO
 
