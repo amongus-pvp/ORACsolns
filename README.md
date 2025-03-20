@@ -85,6 +85,8 @@ Currently have uploaded: `90` solutions,
 | 57 | Oil | 100 |
 | 62 | No (One) Left | 100 |
 | 70 | Safe Cracking | 100 |
+| 88 | Taxis | 100 |
+| 103 | Night Walk | 100 |
 | 106 | Evading Capture | 100 |
 | 107 | Choreography | 100 |
 | 112 | RPS | 100 |
@@ -95,8 +97,11 @@ Currently have uploaded: `90` solutions,
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 149 | Atlantis Rising | 100 |
 | 165 | Hiring Monks | 100 |
+| 167 | Conveyor Belts | 100 |
 | 169 | Bookshop | 100 |
 | 175 | Cute Numbers | 100 |
+| 176 | Lab Session | 100 |
+| 179 | Powers Of Two | 100 |
 | 204 | Missing Mango | 100 |
 | 209 | Baubles | 100 |
 | 210 | Ladybugs II | 100 |
@@ -108,6 +113,7 @@ Currently have uploaded: `90` solutions,
 | 240 | Farmer Drama | 100 |
 | 244 | Wet Chairs | 100 |
 | 247 | Snap Dragons | 100 |
+| 260 | Chocolate II (C++) | 100 |
 | 261 | Settling Debts | 100 |
 | 262 | Pirates | 100 |
 | 265 | Street Construction | 100 |
