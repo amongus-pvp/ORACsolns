@@ -153,6 +153,7 @@ Currently have uploaded: `85` solutions
 | 1302 | Distincto's Raffle | 100 |
 | 1415 | Palindrome | 100 |
 | 1461 | Backpacking | 100 |
+| 1462 | Atlantis III: Twin Rivers | 50 |
 | 1463 | Javelin | 100 |
 | 1464 | Subbookkeeper | 100 |
 | 1465 | Shopping Spree | 100 |
