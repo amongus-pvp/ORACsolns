@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently have uploaded: `90` solutions,
+Currently have uploaded: `96` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
