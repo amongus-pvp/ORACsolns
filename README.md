@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently have uploaded: `87` solutions,
+Currently have uploaded: `88` solutions,
 `1` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -95,6 +95,7 @@ Currently have uploaded: `87` solutions,
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 149 | Atlantis Rising | 100 |
 | 165 | Hiring Monks | 100 |
+| 169 | Bookshop | 100 |
 | 175 | Cute Numbers | 100 |
 | 204 | Missing Mango | 100 |
 | 209 | Baubles | 100 |
