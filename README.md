@@ -68,17 +68,19 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `98` solutions,
+Currently I have uploaded: `103` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
 | ------------- | ------------- | ------------- |
 | 3  | Vases  | 100 |
+| 6 | Superphone | 100 |
 | 10 | Travelling Salesperson | 100 |
 | 13 | Cookies | 100 |
 | 21 | Chocolate Shop | 100 |
 | 23 | Snap Dragons II | 100 |
 | 27 | Ruckus League | 100 |
+| 34 | Wetlands | 100 |
 | 39 | Nomnomnom | 100 |
 | 50 | Medusa's Snakes | 100 |
 | 56 | Treasure Hunt | 100 |
@@ -87,6 +89,7 @@ Currently I have uploaded: `98` solutions,
 | 70 | Safe Cracking | 100 |
 | 88 | Taxis | 100 |
 | 103 | Night Walk | 100 |
+| 104 | Mansion | 100 |
 | 106 | Evading Capture | 100 |
 | 107 | Choreography | 100 |
 | 112 | RPS | 100 |
@@ -114,10 +117,12 @@ Currently I have uploaded: `98` solutions,
 | 244 | Wet Chairs | 100 |
 | 247 | Snap Dragons | 100 |
 | 250 | Cabinet Shuffle | 100 |
+| 257 | Invasion | 100 |
 | 260 | Chocolate II (C++) | 100 |
 | 261 | Settling Debts | 100 |
 | 262 | Pirates | 100 |
 | 265 | Street Construction | 100 |
+| 272 | Restaurants | 100 |
 | 274 | Snap Dragons III: Binary Snap | 100 |
 | 283 | Posters | 100 |
 | 288 | Crowd Surfing | 100 |
