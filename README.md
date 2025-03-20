@@ -68,7 +68,8 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently have uploaded: `85` solutions
+Currently have uploaded: `87` solutions,
+`1` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
 | ------------- | ------------- | ------------- |
@@ -102,6 +103,7 @@ Currently have uploaded: `85` solutions
 | 212 | Ninjas | 100 |
 | 216 | Tennis Robot | 100 |
 | 225 | Tag | 100 |
+| 226 | Heatwave | 100 | 
 | 240 | Farmer Drama | 100 |
 | 244 | Wet Chairs | 100 |
 | 247 | Snap Dragons | 100 |
@@ -239,6 +241,6 @@ Introductory AIO problems I: ✅ <br>
   Shopping Spree: ✅ <br> <br>
   Backpacking: ✅ <br> <br>
   Tennis Robot II: ✅ <br> <br>
-  Atlantis III: Twin Rivers: ❌ <br> <br>
+  Atlantis III: Twin Rivers: ❌ (50 points) <br> <br>
 </details>
 </details>
