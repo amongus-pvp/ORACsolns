@@ -161,6 +161,8 @@ Currently have uploaded: `88` solutions,
 | 1464 | Subbookkeeper | 100 |
 | 1465 | Shopping Spree | 100 |
 | 1466 | Tennis Robot II | 100 |
+| 1537 | Tree Dash | 35 |
+| 1538 | Arrayser | 53.44 |
 
 
 # TODO
