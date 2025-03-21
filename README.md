@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `103` solutions,
+Currently I have uploaded: `107` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -99,9 +99,11 @@ Currently I have uploaded: `103` solutions,
 | 141 | Magic Squares | 100 |
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 149 | Atlantis Rising | 100 |
+| 158 | Frog | 100 |
 | 165 | Hiring Monks | 100 |
 | 167 | Conveyor Belts | 100 |
 | 169 | Bookshop | 100 |
+| 172 | Artclass | 100 |
 | 175 | Cute Numbers | 100 |
 | 176 | Lab Session | 100 |
 | 179 | Powers Of Two | 100 |
@@ -111,6 +113,7 @@ Currently I have uploaded: `103` solutions,
 | 211 | Ghost Encounters | 100 |
 | 212 | Ninjas | 100 |
 | 216 | Tennis Robot | 100 |
+| 220 | Archery | 100 |
 | 225 | Tag | 100 |
 | 226 | Heatwave | 100 | 
 | 240 | Farmer Drama | 100 |
@@ -126,6 +129,7 @@ Currently I have uploaded: `103` solutions,
 | 274 | Snap Dragons III: Binary Snap | 100 |
 | 283 | Posters | 100 |
 | 288 | Crowd Surfing | 100 |
+| 295 | Save-It | 100 |
 | 301 | Carmen Sanfrancisco | 100 |
 | 303 | NORT | 100 |
 | 308 | Chimera II | 100 |
