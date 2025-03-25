@@ -1,3 +1,4 @@
+# https://orac2.info/problem/107/
 D, T = map(int, input().split())
 a = []
 b = []

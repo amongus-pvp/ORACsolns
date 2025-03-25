@@ -1,3 +1,4 @@
+# https://orac2.info/problem/982/
 import math
  
 n = int(input())

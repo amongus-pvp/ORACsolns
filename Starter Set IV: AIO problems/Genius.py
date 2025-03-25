@@ -1,3 +1,4 @@
+# https://orac2.info/problem/800/
 def solve_genius_problem(n, p):
     solved_problems = [0] * n
     total_problems = p

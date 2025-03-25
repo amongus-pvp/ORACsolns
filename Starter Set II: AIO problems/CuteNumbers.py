@@ -1,3 +1,4 @@
+# https://orac2.info/problem/175/
 d = int(input())
 arr = []
 for i in range(d):

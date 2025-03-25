@@ -1,4 +1,5 @@
-x = input() # js skipping the first line since we dont need it
+# https://orac2.info/problem/1098/
+input() # js skipping the first line since we dont need it
 x = input()
  
 v = 0

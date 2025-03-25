@@ -187,7 +187,7 @@ Currently I have uploaded: `110` solutions,
 
 # TODO
 
-Add links to problems in every file ❌ (need to do for starter sets) <br>
+Add links to problems in every file ✅ <br>
 Write editorials for one set at the minimum (2023 most likely) ❌<br>
 Organise the below section into tables for ease of reading ❌<br>
 <details close>

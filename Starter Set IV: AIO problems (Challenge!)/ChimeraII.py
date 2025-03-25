@@ -1,3 +1,4 @@
+# https://orac2.info/problem/308/
 N = int(input())
 top = list(input())
 bottom = list(input())

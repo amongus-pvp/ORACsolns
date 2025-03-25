@@ -1,3 +1,4 @@
+# https://orac2.info/problem/204/
 I, C, ID, CD = map(int, input().split())
  
 s1, s2 = I + ID, I - ID

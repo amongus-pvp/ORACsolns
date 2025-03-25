@@ -1,3 +1,4 @@
+# https://orac2.info/problem/795/
 def collatz(n, memo):
     if n in memo: 
         return memo[n]

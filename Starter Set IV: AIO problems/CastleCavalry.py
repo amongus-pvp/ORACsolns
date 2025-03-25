@@ -1,3 +1,4 @@
+# https://orac2.info/problem/321/
 N = int(input())
 g = {}
 for i in range(N):

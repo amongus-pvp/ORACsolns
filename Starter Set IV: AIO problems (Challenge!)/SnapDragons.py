@@ -1,3 +1,4 @@
+# https://orac2.info/problem/247/
 R, S = map(int, input().split())
 r, s = [], []
 sc = {}
