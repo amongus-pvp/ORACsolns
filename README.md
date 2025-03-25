@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `110` solutions,
+Currently I have uploaded: `111` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -80,6 +80,7 @@ Currently I have uploaded: `110` solutions,
 | 21 | Chocolate Shop | 100 |
 | 23 | Snap Dragons II | 100 |
 | 27 | Ruckus League | 100 |
+| 33 | Air Drop | 100 |
 | 34 | Wetlands | 100 |
 | 39 | Nomnomnom | 100 |
 | 50 | Medusa's Snakes | 100 |
