@@ -1,3 +1,4 @@
+# https://orac2.info/problem/328/
 import statistics
 import math
 

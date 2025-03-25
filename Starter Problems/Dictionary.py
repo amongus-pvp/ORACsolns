@@ -1,3 +1,4 @@
+# https://orac2.info/problem/338/
 d, w = map(int, input().split())
 dictionary = {} # I to W
  

@@ -1,3 +1,4 @@
+# https://orac2.info/problem/330/
 r, s = map(int, input().split())
 num_tickets = int(input().strip())
 

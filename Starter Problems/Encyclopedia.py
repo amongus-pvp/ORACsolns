@@ -1,3 +1,4 @@
+# https://orac2.info/problem/325/
 n, q = map(int, input().split())
 answers = []
 for i in range(n):

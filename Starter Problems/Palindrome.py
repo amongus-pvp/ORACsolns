@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1415/
 n = int(input())
 
 s = list(input())

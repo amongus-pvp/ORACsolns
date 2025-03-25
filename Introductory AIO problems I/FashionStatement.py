@@ -1,3 +1,4 @@
+# https://orac2.info/problem/121/
 N = int(input())
 
 count = 0

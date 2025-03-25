@@ -1,3 +1,4 @@
+# https://orac2.info/problem/212/
 N, K = map(int, input().split())
 S = 0
  

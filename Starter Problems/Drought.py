@@ -1,3 +1,4 @@
+# https://orac2.info/problem/340/
 n, c = map(int, input().split())
 d = 0
 count = 0

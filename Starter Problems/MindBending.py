@@ -1,3 +1,4 @@
+# https://orac2.info/problem/336/
 def calculate_overlap_area(r1_x1, r1_y1, r1_x2, r1_y2, r2_x1, r2_y1, r2_x2, r2_y2):
     # Calculate the overlap boundaries
     x_overlap_left = max(r1_x1, r2_x1)

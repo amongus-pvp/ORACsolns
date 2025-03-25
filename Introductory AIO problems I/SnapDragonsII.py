@@ -1,3 +1,4 @@
+# https://orac2.info/problem/23/
 r, c, rose_r, rose_c, scar_r, scar_c = map(int, input().split())
 
 if (rose_r - scar_r + rose_c - scar_c) % 2 == 0:

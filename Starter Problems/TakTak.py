@@ -1,3 +1,4 @@
+# https://orac2.info/problem/331/
 f = int(input())
 d = 0
 n = f

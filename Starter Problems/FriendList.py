@@ -1,3 +1,4 @@
+# https://orac2.info/problem/333/
 n = int(input())
  
 nu = {}
