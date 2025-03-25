@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `111` solutions,
+Currently I have uploaded: `115` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -88,7 +88,9 @@ Currently I have uploaded: `111` solutions,
 | 57 | Oil | 100 |
 | 62 | No (One) Left | 100 |
 | 70 | Safe Cracking | 100 |
+| 74 | Ants | 100 |
 | 88 | Taxis | 100 |
+| 90 | Mouse Hunt | 100 |
 | 98 | Chimpanzee | 100 |
 | 99 | Curry | 100 |
 | 103 | Night Walk | 100 |
@@ -117,6 +119,7 @@ Currently I have uploaded: `111` solutions,
 | 212 | Ninjas | 100 |
 | 216 | Tennis Robot | 100 |
 | 220 | Archery | 100 |
+| 221 | Atlantis: The Beginning | 100 |
 | 225 | Tag | 100 |
 | 226 | Heatwave | 100 | 
 | 240 | Farmer Drama | 100 |
@@ -136,6 +139,7 @@ Currently I have uploaded: `111` solutions,
 | 295 | Save-It | 100 |
 | 301 | Carmen Sanfrancisco | 100 |
 | 303 | NORT | 100 |
+| 304 | Spies V: Voices in the Dark | 100 |
 | 308 | Chimera II | 100 |
 | 309 | Ladybugs | 100 |
 | 319 | Russian Dolls | 100 |
