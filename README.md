@@ -163,6 +163,7 @@ Currently I have uploaded: `122` solutions,
 | 336 | A Mindbending Scenario | 100 |
 | 338 | Dictionary | 100 |
 | 340 | Drought | 100 |
+| 378 | Giant Hippos | 100 |
 | 800 | Genius | 100 |
 | 982 | Culture | 100 |
 | 1097 | Melody | 100 |
