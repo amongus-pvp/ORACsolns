@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `123` solutions,
+Currently I have uploaded: `124` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -99,6 +99,7 @@ Currently I have uploaded: `123` solutions,
 | 106 | Evading Capture | 100 |
 | 107 | Choreography | 100 |
 | 112 | RPS | 100 |
+| 117 | King Arthur II | 100 |
 | 121 | Fashion Statement | 100 |
 | 122 | Snake Charmer | 100 |
 | 139 | Sculpture II | 100 |
