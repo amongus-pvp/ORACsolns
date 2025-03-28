@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `139` solutions,
+Currently I have uploaded: `143` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -188,6 +188,8 @@ Currently I have uploaded: `139` solutions,
 | 1100 | Laser Cutter | 100 |
 | 1101 | Space Mission | 100 |
 | 1102 | Social Distancing | 100 |
+| 1141 | Alternating Jumps | 100 |
+| 1147 | Ramp | 100 |
 | 1193 | Election II | 100 |
 | 1194 | Beautiful Buildings | 100 |
 | 1195 | Level Ground | 100 |
@@ -203,6 +205,8 @@ Currently I have uploaded: `139` solutions,
 | 1300 | Yet Another Lights Problem | 100 |
 | 1301 | Shoptimality | 100 |
 | 1302 | Distincto's Raffle | 100 |
+| 1373 | Breaking Bars | 100 |
+| 1376 | Winter II | 100 |
 | 1415 | Palindrome | 100 |
 | 1461 | Backpacking | 100 |
 | 1462 | Atlantis III: Twin Rivers | 50 |
