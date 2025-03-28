@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `132` solutions,
+Currently I have uploaded: `139` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -81,10 +81,12 @@ Currently I have uploaded: `132` solutions,
 | 13 | Cookies | 100 |
 | 21 | Chocolate Shop | 100 |
 | 23 | Snap Dragons II | 100 |
+| 24 | Psychological Jujitsu | 100 |
 | 27 | Ruckus League | 100 |
 | 33 | Air Drop | 100 |
 | 34 | Wetlands | 100 |
 | 39 | Nomnomnom | 100 |
+| 48 | Awesome Frog | 100 |
 | 50 | Medusa's Snakes | 100 |
 | 53 | Janitor | 100 |
 | 56 | Treasure Hunt | 100 |
@@ -108,12 +110,14 @@ Currently I have uploaded: `132` solutions,
 | 121 | Fashion Statement | 100 |
 | 122 | Snake Charmer | 100 |
 | 130 | Detective | 100 |
+| 131 | Wormhole | 100 |
 | 139 | Sculpture II | 100 |
 | 141 | Magic Squares | 100 |
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 149 | Atlantis Rising | 100 |
 | 154 | Cloud Cover | 100 |
 | 158 | Frog | 100 |
+| 162 | Slicing Paradise | 100 |
 | 165 | Hiring Monks | 100 |
 | 167 | Conveyor Belts | 100 |
 | 168 | Lollipops, Sweets and Chocolates | 100 |
@@ -133,7 +137,8 @@ Currently I have uploaded: `132` solutions,
 | 220 | Archery | 100 |
 | 221 | Atlantis: The Beginning | 100 |
 | 225 | Tag | 100 |
-| 226 | Heatwave | 100 | 
+| 226 | Heatwave | 100 |
+| 230 | Island | 100 |
 | 240 | Farmer Drama | 100 |
 | 244 | Wet Chairs | 100 |
 | 246 | Tickets | 100 |
@@ -148,10 +153,12 @@ Currently I have uploaded: `132` solutions,
 | 268 | Aliens | 100 |
 | 272 | Restaurants | 100 |
 | 274 | Snap Dragons III: Binary Snap | 100 |
+| 278 | Election | 100 |
 | 283 | Posters | 100 |
 | 288 | Crowd Surfing | 100 |
 | 294 | Sculpture | 100 |
 | 295 | Save-It | 100 |
+| 296 | Restaurant II | 100 |
 | 300 | Sleight of Hand | 100 |
 | 301 | Carmen Sanfrancisco | 100 |
 | 303 | NORT | 100 |
