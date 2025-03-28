@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `129` solutions,
+Currently I have uploaded: `132` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -76,6 +76,7 @@ Currently I have uploaded: `129` solutions,
 | 3  | Vases  | 100 |
 | 4 | Concealed Coconut | 100 |
 | 6 | Superphone | 100 |
+| 8 | Carmen Sanfrancisco II: Bank Robbing | 100 |
 | 10 | Travelling Salesperson | 100 |
 | 13 | Cookies | 100 |
 | 21 | Chocolate Shop | 100 |
@@ -92,10 +93,12 @@ Currently I have uploaded: `129` solutions,
 | 70 | Safe Cracking | 100 |
 | 72 | Chimera | 100 |
 | 74 | Ants | 100 |
+| 75 | Probe | 100 |
 | 88 | Taxis | 100 |
 | 90 | Mouse Hunt | 100 |
 | 98 | Chimpanzee | 100 |
 | 99 | Curry | 100 |
+| 101 | Balancing Aeroplanes II | 100 |
 | 103 | Night Walk | 100 |
 | 104 | Mansion | 100 |
 | 106 | Evading Capture | 100 |
