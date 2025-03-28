@@ -1,4 +1,5 @@
 # https://orac2.info/problem/48/
+from statistics import median
 N, K = map(int, input().split())
  
 pos_list = [0 for i in range(N)]
