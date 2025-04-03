@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `149` solutions,
+Currently I have uploaded: `150` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -166,6 +166,7 @@ Currently I have uploaded: `149` solutions,
 | 296 | Restaurant II | 100 |
 | 300 | Sleight of Hand | 100 |
 | 301 | Carmen Sanfrancisco | 100 |
+| 302 | Graffiti | 100 |
 | 303 | NORT | 100 |
 | 304 | Spies V: Voices in the Dark | 100 |
 | 308 | Chimera II | 100 |
