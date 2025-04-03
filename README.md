@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `144` solutions,
+Currently I have uploaded: `145` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -98,6 +98,7 @@ Currently I have uploaded: `144` solutions,
 | 75 | Probe | 100 |
 | 88 | Taxis | 100 |
 | 90 | Mouse Hunt | 100 |
+| 95 | Time Warp | 100 |
 | 98 | Chimpanzee | 100 |
 | 99 | Curry | 100 |
 | 101 | Balancing Aeroplanes II | 100 |
