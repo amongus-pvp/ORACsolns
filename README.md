@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `146` solutions,
+Currently I have uploaded: `148` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -104,6 +104,7 @@ Currently I have uploaded: `146` solutions,
 | 101 | Balancing Aeroplanes II | 100 |
 | 103 | Night Walk | 100 |
 | 104 | Mansion | 100 |
+| 105 | Hooliganism | 100 |
 | 106 | Evading Capture | 100 |
 | 107 | Choreography | 100 |
 | 112 | RPS | 100 |
@@ -131,6 +132,7 @@ Currently I have uploaded: `146` solutions,
 | 199 | Corey's Party | 100 |
 | 203 | Pygmy Hippos | 100 |
 | 204 | Missing Mango | 100 |
+| 207 | No Ball | 100 |
 | 209 | Baubles | 100 |
 | 210 | Ladybugs II | 100 |
 | 211 | Ghost Encounters | 100 |
