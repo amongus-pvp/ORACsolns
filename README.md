@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `145` solutions,
+Currently I have uploaded: `146` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -115,6 +115,7 @@ Currently I have uploaded: `145` solutions,
 | 139 | Sculpture II | 100 |
 | 141 | Magic Squares | 100 |
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
+| 148 | Stargazing | 100 |
 | 149 | Atlantis Rising | 100 |
 | 154 | Cloud Cover | 100 |
 | 158 | Frog | 100 |
