@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `151` solutions,
+Currently I have uploaded: `152` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -91,6 +91,7 @@ Currently I have uploaded: `151` solutions,
 | 53 | Janitor | 100 |
 | 56 | Treasure Hunt | 100 |
 | 57 | Oil | 100 |
+| 58 | Nomnomnomnom: Can Has Dessert? | 100 |
 | 62 | No (One) Left | 100 |
 | 70 | Safe Cracking | 100 |
 | 72 | Chimera | 100 |
