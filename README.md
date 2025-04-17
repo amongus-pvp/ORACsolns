@@ -68,7 +68,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `156` solutions,
+Currently I have uploaded: `157` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -162,6 +162,7 @@ Currently I have uploaded: `156` solutions,
 | 268 | Aliens | 100 |
 | 272 | Restaurants | 100 |
 | 274 | Snap Dragons III: Binary Snap | 100 |
+| 277 | Flight Planning II | 100 |
 | 278 | Election | 100 |
 | 283 | Posters | 100 |
 | 288 | Crowd Surfing | 100 |
