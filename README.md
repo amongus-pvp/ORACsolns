@@ -61,6 +61,15 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+or:
+```py
+def solve():
+    # code
+    print("Here is the awesome answer")
+
+solve()
+```
 this is simply because this is how C++ does it and i like copying or something idk
 
 # Solutions
