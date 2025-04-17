@@ -53,7 +53,7 @@ import sys
 sys.setrecursionlimit(10**7) # 10**9 maybe if the problem conditions are massive
 ```
 
-**Rarely** ever will you see me using:
+Quite often you'll see me using:
 ```py
 def main():
     # code
@@ -61,6 +61,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+this is simply because this is how C++ does it and i like copying or something idk
 
 # Solutions
 I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills. These will be kept under the /Editorials directory
@@ -68,7 +69,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `157` solutions,
+Currently I have uploaded: `158` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -115,6 +116,7 @@ Currently I have uploaded: `157` solutions,
 | 119 | Snurgle Holders | 100 |
 | 121 | Fashion Statement | 100 |
 | 122 | Snake Charmer | 100 |
+| 125 | Network System Administrator | 100 |
 | 130 | Detective | 100 |
 | 131 | Wormhole | 100 |
 | 139 | Sculpture II | 100 |
