@@ -69,7 +69,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `159` solutions,
+Currently I have uploaded: `160` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -203,6 +203,7 @@ Currently I have uploaded: `159` solutions,
 | 1101 | Space Mission | 100 |
 | 1102 | Social Distancing | 100 |
 | 1138 | Winter | 100 |
+| 1140 | Lazy Hike | 100 |
 | 1141 | Alternating Jumps | 100 |
 | 1143 | Hippo Marshes | 100 |
 | 1147 | Ramp | 100 |
