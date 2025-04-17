@@ -69,7 +69,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `158` solutions,
+Currently I have uploaded: `159` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -131,6 +131,7 @@ Currently I have uploaded: `158` solutions,
 | 167 | Conveyor Belts | 100 |
 | 168 | Lollipops, Sweets and Chocolates | 100 |
 | 169 | Bookshop | 100 |
+| 171 | Space Invaders | 100 |
 | 172 | Artclass | 100 |
 | 175 | Cute Numbers | 100 |
 | 176 | Lab Session | 100 |
