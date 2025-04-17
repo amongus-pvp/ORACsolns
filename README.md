@@ -70,7 +70,8 @@ def solve():
 
 solve()
 ```
-this is simply because this is how C++ does it and i like copying or something idk
+This is my competetive programming template so i might use it sometimes
+
 
 # Solutions
 I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills. These will be kept under the /Editorials directory
