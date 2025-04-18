@@ -79,7 +79,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `160` solutions,
+Currently I have uploaded: `161` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -167,6 +167,7 @@ Currently I have uploaded: `160` solutions,
 | 247 | Snap Dragons | 100 |
 | 250 | Cabinet Shuffle | 100 |
 | 257 | Invasion | 100 |
+| 259 | Flatman's Tower | 100 |
 | 260 | Chocolate II (C++) | 100 |
 | 261 | Settling Debts | 100 |
 | 262 | Pirates | 100 |
