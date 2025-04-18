@@ -7,11 +7,6 @@ Im going to organise this into the sets and then start uploading my solutions
 
 This is being done in 2025 so all solutions read and write to console now (except for specific problems from selection exam sets but those will be dealt with later)
 
-I'm uploading a lot of these as I solve them, and I am quite hesitant to upload problems unless the set they originate from has already been solved
-
-✅ for completed
-❌ for uncompleted
-
 # Formatting
 Almost every file will be a python file that scores 100/100 (or partial if specified) when submitted to the link given at the top of the code. <br>
 My code is formatted in the following style for problems (in python) that use standard input and output:
@@ -251,10 +246,3 @@ Currently I have uploaded: `167` solutions,
 | 1532 | Buildings | 100 |
 | 1537 | Tree Dash (C++) | 35 |
 | 1538 | Arrayser (C++) | 53.44 |
-
-
-# TODO
-
-Add links to problems in every file ✅ <br>
-Write editorials for one set at the minimum (2023 most likely) ❌<br>
-Finish all AIO problems and upload them (I have roughly 17 left to solve) ❌<br>
