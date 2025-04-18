@@ -79,7 +79,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `162` solutions,
+Currently I have uploaded: `166` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -206,7 +206,11 @@ Currently I have uploaded: `162` solutions,
 | 340 | Drought | 100 |
 | 378 | Giant Hippos | 100 |
 | 800 | Genius | 100 |
+| 945 | Jogging | 100 |
 | 982 | Culture | 100 |
+| 1082 | Sandwich Holes | 100 |
+| 1083 | Bracelet Jewels | 100 |
+| 1084 | Programming Pairs | 100 |
 | 1097 | Melody | 100 |
 | 1098 | Robot Vacuum | 100 |
 | 1099 | Art Class II | 100 |
