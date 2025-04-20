@@ -74,7 +74,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `173` solutions,
+Currently I have uploaded: `174` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -233,6 +233,7 @@ Currently I have uploaded: `173` solutions,
 | 1215 | Sewers | 100 |
 | 1216 | Ecofriendly Trip (C++) | 100 | 
 | 1222 | Chocolate Bar | 100 |
+| 1224 | Electrical Fault | 100 |
 | 1297 | Making Bank | 100 |
 | 1298 | Wheeling And Dealing | 100 |
 | 1299 | TeleTrip | 100 |
