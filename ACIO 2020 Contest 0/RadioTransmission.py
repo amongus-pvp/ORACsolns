@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1081/
 from collections import deque
 
 def bfs(N, graph, bandwidth, K, D, L):
