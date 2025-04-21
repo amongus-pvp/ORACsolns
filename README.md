@@ -74,7 +74,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `174` solutions,
+Currently I have uploaded: `175` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -122,6 +122,7 @@ Currently I have uploaded: `174` solutions,
 | 119 | Snurgle Holders | 100 |
 | 121 | Fashion Statement | 100 |
 | 122 | Snake Charmer | 100 |
+| 123 | Chariot Race | 100 |
 | 125 | Network System Administrator | 100 |
 | 130 | Detective | 100 |
 | 131 | Wormhole | 100 |
