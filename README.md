@@ -7,6 +7,9 @@ Im going to organise this into the sets and then start uploading my solutions
 
 This is being done in 2025 so all solutions read and write to console now (except for specific problems from selection exam sets but those will be dealt with later)
 
+**SINCE ALL SOLUTIONS ARE IN PYTHON, THEY RUN REALLY SLOW. TO GUARANTEE THAT YOU DON'T HIT A TIME LIMIT EXCEEDED PROBLEM, MAKE SURE YOU DO ALL SUBMISSIONS USING "Python 3 (PyPy)"**
+
+
 # Formatting
 Almost every file will be a python file that scores 100/100 (or partial if specified) when submitted to the link given at the top of the code. <br>
 My code is formatted in the following style for problems (in python) that use standard input and output:
@@ -74,7 +77,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `175` solutions,
+Currently I have uploaded: `176` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
