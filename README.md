@@ -5,7 +5,7 @@ https://orac2.info/hub/
 
 Im going to organise this into the sets and then start uploading my solutions
 
-This is being done in 2025 so all solutions read and write to console now (except for specific problems from selection exam sets but those will be dealt with later)
+This is being done in 2025 so all solutions read and write to console now (Some problems may be of exception to this, but this is dicsussed in the formatting section below)
 
 **SINCE ALL SOLUTIONS ARE IN PYTHON, THEY RUN REALLY SLOW. TO GUARANTEE THAT YOU DON'T HIT A TIME LIMIT EXCEEDED PROBLEM, MAKE SURE YOU DO ALL SUBMISSIONS USING "Python 3 (PyPy)"**
 
