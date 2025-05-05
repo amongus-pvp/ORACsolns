@@ -77,7 +77,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `179` solutions,
+Currently I have uploaded: `180` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -195,6 +195,7 @@ Currently I have uploaded: `179` solutions,
 | 304 | Spies V: Voices in the Dark | 100 |
 | 308 | Chimera II | 100 |
 | 309 | Ladybugs | 100 |
+| 312 | Vitamin D | 100 |
 | 319 | Russian Dolls | 100 |
 | 321 | Castle Cavalry | 100 |
 | 324 | Counting to Infinity | 100 |
