@@ -77,7 +77,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `183` solutions,
+Currently I have uploaded: `185` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -107,6 +107,7 @@ Currently I have uploaded: `183` solutions,
 | 72 | Chimera | 100 |
 | 74 | Ants | 100 |
 | 75 | Probe | 100 |
+| 86 | Monsters | 100 |
 | 88 | Taxis | 100 |
 | 90 | Mouse Hunt | 100 |
 | 95 | Time Warp | 100 |
@@ -131,6 +132,7 @@ Currently I have uploaded: `183` solutions,
 | 131 | Wormhole | 100 |
 | 139 | Sculpture II | 100 |
 | 141 | Magic Squares | 100 |
+| 145 | Social Engineering | 100 |
 | 147 | Lollipops, Sweets and Chocolates II | 100 |
 | 148 | Stargazing | 100 |
 | 149 | Atlantis Rising | 100 |
