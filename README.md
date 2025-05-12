@@ -190,6 +190,7 @@ Currently I have uploaded: `189` solutions,
 | 277 | Flight Planning II | 100 |
 | 278 | Election | 100 |
 | 283 | Posters | 100 |
+| 284 | Cats III: Off with their heads | 100 |
 | 287 | Rock Climbing | 100 |
 | 288 | Crowd Surfing | 100 |
 | 292 | Bookshelf | 100 |
