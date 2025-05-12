@@ -77,7 +77,7 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `187` solutions,
+Currently I have uploaded: `188` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
@@ -96,6 +96,7 @@ Currently I have uploaded: `187` solutions,
 | 33 | Air Drop | 100 |
 | 34 | Wetlands | 100 |
 | 39 | Nomnomnom | 100 |
+| 46 | Rescue Robot | 100 |
 | 48 | Awesome Frog | 100 |
 | 50 | Medusa's Snakes | 100 |
 | 53 | Janitor | 100 |
