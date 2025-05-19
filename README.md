@@ -77,12 +77,13 @@ I will be authoring my own written solutions for certain COMPLETED problemsets, 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
 
-Currently I have uploaded: `190` solutions,
+Currently I have uploaded: `191` solutions,
 `3` of these are partial solutions
 
 | Problem #  | Problem Name | Score /100 |
 | ------------- | ------------- | ------------- |
-| 3  | Vases  | 100 |
+| 1 | The Terrifying Canary-Bird (C++) | 100 |
+| 3 | Vases  | 100 |
 | 4 | Concealed Coconut | 100 |
 | 6 | Superphone | 100 |
 | 8 | Carmen Sanfrancisco II: Bank Robbing | 100 |
