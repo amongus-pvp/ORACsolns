@@ -1,3 +1,4 @@
+# https://orac2.info/problem/1535/
 n, a, k = map(int, input().split())
 cost = [0] * (n + 1)
 profit = [0] * (n + 1)
