@@ -9,6 +9,7 @@ This is being done in 2025 so all solutions read and write to console now (Some 
 
 **SINCE ALL SOLUTIONS ARE IN PYTHON, THEY RUN REALLY SLOW. TO GUARANTEE THAT YOU DON'T HIT A TIME LIMIT EXCEEDED PROBLEM, MAKE SURE YOU DO ALL SUBMISSIONS USING "Python 3 (PyPy)"**
 
+I'll include short written solutions with each problem as well
 
 # Formatting
 Almost every file will be a python file that scores 100/100 (or partial if specified) when submitted to the link given at the top of the code. <br>
@@ -69,10 +70,6 @@ def solve():
 solve()
 ```
 This is my competetive programming template so i might use it sometimes
-
-
-# Solutions
-I will be authoring my own written solutions for certain COMPLETED problemsets, these will be uploaded as pdfs, mostly as practise for my explanation skills. These will be kept under the /Editorials directory
 
 # Completed Problems
 Heres a table of every problem I have **uploaded**. These are numbered based on the hyperlink they have on ORAC, which comes in the form https://orac2.info/problem/X/ where `X` is the problem number. I'll also include the score I achieved on that problem incase I upload a partial solution.
